@@ -11,7 +11,7 @@
 </template>
 
 <script>
-    
-    
-    export default Modal;
+    export default {
+        
+    };
 </script>
